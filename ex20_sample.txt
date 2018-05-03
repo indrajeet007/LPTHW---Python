@@ -1,0 +1,4 @@
+TensorFlow is a framework developed by Google on 9th November 2015.
+It is written in Python, C++ and Cuda.
+It supports platforms like Linux, Microsoft Windows, macOS, and Android.
+TensorFlow provides multiple API's in Python, C++, Java etc.
